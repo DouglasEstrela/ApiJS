@@ -98,4 +98,4 @@ O servidor estará rodando por padrão na porta `3003`. Você pode testá-lo com
 
 ## 👨‍💻 Autor
 
-Douglas – Projeto criado para fins de estudo e prática com APIs em Node.js.
+Douglas Estrela – Projeto criado para fins de estudo e prática com APIs em Node.js.
